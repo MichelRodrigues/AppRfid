@@ -1,4 +1,4 @@
-package com.UHF.scanlable;
+package com.rfid.trans;
 
 /* loaded from: classes.dex */
 public class OtgUtils {
@@ -61,6 +61,6 @@ public class OtgUtils {
             Method dump skipped, instructions count: 293
             To view this dump change 'Code comments level' option to 'DEBUG'
         */
-        throw new UnsupportedOperationException("Method not decompiled: com.UHF.scanlable.OtgUtils.set53GPIOEnabled(boolean):boolean");
+        throw new UnsupportedOperationException("Method not decompiled: com.rfid.trans.OtgUtils.set53GPIOEnabled(boolean):boolean");
     }
 }
